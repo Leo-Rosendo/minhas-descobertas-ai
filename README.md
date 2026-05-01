@@ -7,11 +7,11 @@ Aqui eu documento ferramentas, skills, prompts, templates e recursos de IA que t
 
 ## ✨ O que você encontra aqui
 
-- 🔧 **Templates e comandos prontos** para agentes de IA (Claude Code, Chat GPT etc.)
-- 📚 **Guias e tutoriais** baseados em testes reais
+- 🔧 **Templates e comandos prontos** para agentes de IA (AIOS/AIOX, Claude Code, etc.)
+- 📚 **Guides e tutoriais** baseados em testes reais
 - 🛠️ **Ferramentas e skills** que economizam tempo
 - 💡 **Dicas e workflows** que funcionam na prática
-- 🔗 **Recursos úteis** da comunidade
+- 🔗 **Recursos úteis** da comunidade (sempre com créditos)
 
 **Tudo gratuito, testado por mim e pronto para usar!**
 
@@ -22,18 +22,22 @@ Aqui eu documento ferramentas, skills, prompts, templates e recursos de IA que t
 ### 🤖 AIOS/AIOX Templates
 Templates prontos para turbinar seus agentes AIOS/AIOX:
 
-- **[🧠 Memória Persistente + Saudação + Auto-Save](./memoria-persistente/memoria-saudacao-autosave.md)**  
-  Configure memória do projeto, saudação personalizada e auto-save automático  
-  ⚡ 1 comando | 🤖 O agente faz tudo sozinho
+| Template | Descrição |
+|----------|-----------|
+| 🧠 **[Memória + Saudação + Auto-Save](./memoria-persistente/memoria-saudacao-autosave.md)** | Configure memória persistente, saudação personalizada e auto-save automático em 1 comando. O agente Orion faz tudo sozinho. |
 
 ### 🔍 Claude Code Skills
-Em breve: guides e tutoriais sobre skills do Claude Code
+Guides e tutoriais sobre skills do Claude Code:
+
+| Guia | Descrição |
+|------|-----------|
+| 🔎 **[find-skills: A Meta-Skill](./claude-code-skills/find-skills.md)** | Como configurar o Claude para encontrar e instalar outras skills automaticamente. Inclui pré-requisitos, instalação, uso prático e solução de problemas. |
 
 ### 📦 Ferramentas que recomendo
-Em breve: curadoria de ferramentas de IA testadas
+*(Em breve: curadoria de ferramentas de IA testadas)*
 
 ### 💬 Prompts e Workflows
-Em breve: prompts prontos e fluxos de trabalho validados
+*(Em breve: prompts prontos e fluxos de trabalho validados)*
 
 ---
 
@@ -90,6 +94,7 @@ Muitas das ferramentas e skills mencionadas aqui são de código aberto e mantid
 
 **Leo Rosendo**  
 GitHub: [@Leo-Rosendo](https://github.com/Leo-Rosendo)  
+📫 Me siga no Instagram para mais dicas de IA!
 
 ---
 
@@ -100,7 +105,7 @@ Isso ajuda outras pessoas a encontrarem esses recursos!
 
 **Sinta-se à vontade para:**
 - 🔀 Fazer fork e adaptar para seu uso
--  Reportar problemas ou sugestões
+- 🐛 Reportar problemas ou sugestões
 - 💡 Sugerir novas ferramentas/skills para eu testar
 
 ---
@@ -115,5 +120,6 @@ Este repositório está sob a [MIT License](./LICENSE). Sinta-se livre para usar
 
 **Feito com ❤️ e muita curiosidade sobre IA**
 
+*[Ver histórico do repositório original](https://github.com/Leo-Rosendo/aios-aiox-templates)*
 
 </div>
