@@ -26,7 +26,7 @@ npx skills add https://github.com/vercel-labs/skills --skill find-skills
 ### 🪟 Windows, ou se travar
 
 ```bash
-npx -y skills add https://github.com/vercel-labs/skills --skill find-skills --yes
+npx -y skills add https://github.com/vercel-labs/skills --skill find-skills
 ```
 
 > ⚠️ **Dica:** se o terminal travar pedindo confirmação, use as flags `-y` ou `--yes`.
@@ -85,9 +85,9 @@ npx skills add
 
 ## 🔗 Links Úteis
 
-- 🌐 Registry Oficial de Skills
-- 📚 Documentação do CLI no GitHub
-- 💬 Comunidade Claude Code
+- [🌐 Registry Oficial de Skills](https://skills.sh)
+- [📚 Documentação do CLI no GitHub](https://github.com/vercel-labs/skills)
+- [💬 Comunidade Claude Code (Discord)](https://discord.gg/anthropic)
 
 ---
 
